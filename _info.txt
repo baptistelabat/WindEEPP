@@ -1,0 +1,29 @@
+WindEEPP
+pronouce "wind deep"
+
+using WIND for creating Ecologic Electricity with Periodic Phase
+
+kite
+control
+movable
+
+start
+0. manual start
+phases
+1. 8 shape path while producing energy (unroll)
+2. I shape path while consuming energy (roll)
+
+GPL
+both experimental and simulation
+
+thema:
+fluid mechanics, electricity, control.
+
+
+kite
+=> 2 driving ropes
+=> 2 controled motors/generators
+=> 2 phases:
+way:  traction, production
+back: release,  consumption
+

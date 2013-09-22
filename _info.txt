@@ -13,17 +13,30 @@ phases
 1. 8 shape path while producing energy (unroll)
 2. I shape path while consuming energy (roll)
 
-GPL
-both experimental and simulation
+-GPL
+-both experimental and simulation
+target compagny:
+decathlon, ...
 
 thema:
 fluid mechanics, electricity, control.
-
 
 kite
 => 2 driving ropes
 => 2 controled motors/generators
 => 2 phases:
-way:  traction, production
-back: release,  consumption
+   way:  traction, production
+   back: release,  consumption
+=> control: traction and path/phase
+
+fluid mechanics:
+- kite
+- traction
+
+electricity:
+- power: production/consumption ratio
+
+control:
+- uC
+- position: vision, rotation
 

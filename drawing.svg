@@ -9,13 +9,14 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="744.09448819"
-   height="1052.3622047"
+   width="1052.3622"
+   height="744.09448"
    id="svg2"
    sodipodi:version="0.32"
    inkscape:version="0.46"
    sodipodi:docname="drawing.svg"
-   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -65,8 +66,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="325.34964"
-     inkscape:cy="739.33064"
+     inkscape:cx="547.05006"
+     inkscape:cy="353.54661"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -90,7 +91,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       transform="translate(-112.26617,-320.53606)"
+       transform="matrix(0.75,0,0,0.75,195.22488,38.004431)"
        id="g2451"
        inkscape:label="Camada 1">
       <g
@@ -122,28 +123,20 @@
       </g>
     </g>
     <image
-       y="13.349758"
-       x="-389.66577"
+       y="288.41879"
+       x="-571.67383"
        id="image2505"
-       height="201.60001"
-       width="320"
+       height="151.20001"
+       width="240"
        sodipodi:absref="/home/coudert/WindEEPP/wind_blowing_cloud.png"
        xlink:href="wind_blowing_cloud.png"
        transform="scale(-1,1)" />
     <image
-       y="212.36217"
-       x="-330.85715"
-       id="image2575"
-       height="320"
-       width="146"
-       sodipodi:absref="/home/coudert/WindEEPP/clipart-0083.png"
-       xlink:href="clipart-0083.png" />
-    <image
-       y="-279.9296"
-       x="475.3074"
+       y="-295.76147"
+       x="741.47943"
        id="image2579"
-       height="320.00003"
-       width="146.00002"
+       height="240.00003"
+       width="109.50002"
        sodipodi:absref="/home/coudert/WindEEPP/clipart-0083.png"
        xlink:href="clipart-0083.png"
        transform="matrix(0.5378741,0.8430252,-0.8430252,0.5378741,0,0)" />
@@ -156,26 +149,26 @@
        sodipodi:rx="45.714287"
        sodipodi:ry="47.142857"
        d="M 137.14286,508.07648 A 45.714287,47.142857 0 1 1 45.714287,508.07648 A 45.714287,47.142857 0 1 1 137.14286,508.07648 z"
-       transform="matrix(1.2,0,0,1.2,3.9376417,-127.87926)" />
+       transform="matrix(0.9,0,0,0.9,282.37773,182.49703)" />
     <image
-       y="-152.23692"
-       x="403.45264"
+       y="-58.729038"
+       x="693.11951"
        id="image2583"
-       height="320"
-       width="146"
+       height="240"
+       width="109.5"
        sodipodi:absref="/home/coudert/WindEEPP/clipart-0083.png"
        xlink:href="clipart-0083.png"
        transform="matrix(0.8005806,0.5992251,-0.5992251,0.8005806,0,0)" />
     <text
        xml:space="preserve"
-       style="font-size:57.59999847000000273px;font-style:normal;font-weight:normal;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
-       x="62.536438"
-       y="505.21381"
+       style="font-size:43.19999695px;font-style:normal;font-weight:normal;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="326.32681"
+       y="657.31683"
        id="text2585"><tspan
          sodipodi:role="line"
          id="tspan2587"
-         x="62.536438"
-         y="505.21381">WD</tspan></text>
+         x="326.32681"
+         y="657.31683">WD</tspan></text>
     <path
        sodipodi:type="arc"
        style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -185,7 +178,7 @@
        sodipodi:rx="8.586297"
        sodipodi:ry="8.586297"
        d="M 158.59396,411.42038 A 8.586297,8.586297 0 1 1 141.42136,411.42038 A 8.586297,8.586297 0 1 1 158.59396,411.42038 z"
-       transform="translate(5.0507627,29.294424)" />
+       transform="matrix(0.75,0,0,0.75,283.21257,300.37729)" />
     <path
        sodipodi:type="arc"
        style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -195,6 +188,154 @@
        sodipodi:rx="8.586297"
        sodipodi:ry="8.586297"
        d="M 158.59396,411.42038 A 8.586297,8.586297 0 1 1 141.42136,411.42038 A 8.586297,8.586297 0 1 1 158.59396,411.42038 z"
-       transform="translate(20.70812,68.185309)" />
+       transform="matrix(0.75,0,0,0.75,294.95559,329.54545)" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="27.142857"
+       y="61.237339"
+       id="text3363"><tspan
+         sodipodi:role="line"
+         id="tspan3365"
+         x="27.142857"
+         y="61.237339"><tspan
+   style="fill:#0000ff;fill-opacity:1"
+   id="tspan3375">WindEEPP</tspan>* <tspan
+   style="font-size:28px"
+   id="tspan3371">du vent à l'électricité transportable</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="27.142857"
+         y="111.23734"
+         id="tspan3393"
+         style="font-size:16;fill:#808080;fill-opacity:1"> WIND for creating Ecologic Electricity with Periodic Phase</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22.5px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="22.84354"
+       y="726.05914"
+       id="text3367"><tspan
+         sodipodi:role="line"
+         id="tspan3369"
+         x="22.84354"
+         y="726.05914"
+         style="font-size:20">* vous êtes libre de redéfinir l'acronyme et bien d'autres choses encore ...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="648.81653"
+       y="629.66522"
+       id="text3377"><tspan
+         sodipodi:role="line"
+         id="tspan3379"
+         x="648.81653"
+         y="629.66522">contacts:</tspan><tspan
+         sodipodi:role="line"
+         x="648.81653"
+         y="659.66522"
+         id="tspan3381">franck.kerherve@ec-lille.fr</tspan><tspan
+         sodipodi:role="line"
+         x="648.81653"
+         y="689.66522"
+         id="tspan3383">sebastien.coudert@univ-lille1.fr</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="735.39105"
+       y="640.04877"
+       id="text3385"><tspan
+         sodipodi:role="line"
+         id="tspan3387"
+         x="735.39105"
+         y="640.04877" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="44.446712"
+       y="129.92172"
+       id="text3389"><tspan
+         sodipodi:role="line"
+         id="tspan3391"
+         x="44.446712"
+         y="129.92172">- utiliser un cerf-volant de traction (ex.: aile pliable en tissu), facilement transportable.</tspan><tspan
+         sodipodi:role="line"
+         x="44.446712"
+         y="159.92172"
+         id="tspan3407">- les 2 suspentes de traction/direction reliées à 2 moteurs/génératrices d'electricité</tspan><tspan
+         sodipodi:role="line"
+         x="44.446712"
+         y="189.92172"
+         id="tspan3409">- controler le cerf-volant pendant les 2 phases:</tspan><tspan
+         sodipodi:role="line"
+         x="44.446712"
+         y="219.92172"
+         id="tspan3411"> 1. génération: </tspan><tspan
+         sodipodi:role="line"
+         x="44.446712"
+         y="249.92172"
+         id="tspan3413"> 2. consommation: </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="23.233534"
+       y="459.23148"
+       id="text3395"><tspan
+         sodipodi:role="line"
+         id="tspan3397"
+         x="23.233534"
+         y="459.23148">Missions &amp; Objectifs</tspan><tspan
+         sodipodi:role="line"
+         x="23.233534"
+         y="489.23148"
+         id="tspan3399"> - définir la solution technique</tspan><tspan
+         sodipodi:role="line"
+         x="23.233534"
+         y="519.23145"
+         id="tspan3401"> - convaincre un partenaire</tspan><tspan
+         sodipodi:role="line"
+         x="23.233534"
+         y="549.23151"
+         id="tspan3403"> - réaliser un prototype</tspan><tspan
+         sodipodi:role="line"
+         x="23.233534"
+         y="579.23151"
+         id="tspan3405"> - libérer le concept</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="843.47742"
+       y="328.92178"
+       id="text3415"><tspan
+         sodipodi:role="line"
+         id="tspan3417"
+         x="843.47742"
+         y="328.92178">écologie</tspan><tspan
+         sodipodi:role="line"
+         x="843.47742"
+         y="358.92178"
+         id="tspan3429">   mécanique</tspan><tspan
+         sodipodi:role="line"
+         x="843.47742"
+         y="388.92178"
+         id="tspan3419">         fluide</tspan><tspan
+         sodipodi:role="line"
+         x="843.47742"
+         y="418.92178"
+         id="tspan3421">      électricité</tspan><tspan
+         sodipodi:role="line"
+         x="843.47742"
+         y="448.92178"
+         id="tspan3427">   contrôle</tspan><tspan
+         sodipodi:role="line"
+         x="843.47742"
+         y="478.92178"
+         id="tspan3431">vision</tspan><tspan
+         sodipodi:role="line"
+         x="843.47742"
+         y="508.92178"
+         id="tspan3425" /><tspan
+         sodipodi:role="line"
+         x="843.47742"
+         y="538.92181"
+         id="tspan3423" /></text>
   </g>
 </svg>

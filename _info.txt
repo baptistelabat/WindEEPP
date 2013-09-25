@@ -1,11 +1,12 @@
 WindEEPP
 pronouce "wind deep"
+https://github.com/coupdair/WindEEPP
 
 using WIND for creating Ecologic Electricity with Periodic Phase
 
+transportable
 kite
 control
-movable
 
 start
 0. manual start
@@ -39,4 +40,5 @@ electricity:
 control:
 - uC
 - position: vision, rotation
+
 

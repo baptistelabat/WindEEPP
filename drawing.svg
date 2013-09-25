@@ -46,6 +46,13 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 526.18109 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2573"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -57,9 +64,9 @@
      objecttolerance="10"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-106.42857"
-     inkscape:cy="520"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="325.34964"
+     inkscape:cy="739.33064"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -83,7 +90,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       transform="translate(-112.26617,-389.10749)"
+       transform="translate(-112.26617,-320.53606)"
        id="g2451"
        inkscape:label="Camada 1">
       <g
@@ -115,13 +122,79 @@
       </g>
     </g>
     <image
-       y="17.276524"
-       x="-345.71439"
+       y="13.349758"
+       x="-389.66577"
        id="image2505"
        height="201.60001"
        width="320"
        sodipodi:absref="/home/coudert/WindEEPP/wind_blowing_cloud.png"
        xlink:href="wind_blowing_cloud.png"
        transform="scale(-1,1)" />
+    <image
+       y="212.36217"
+       x="-330.85715"
+       id="image2575"
+       height="320"
+       width="146"
+       sodipodi:absref="/home/coudert/WindEEPP/clipart-0083.png"
+       xlink:href="clipart-0083.png" />
+    <image
+       y="-279.9296"
+       x="475.3074"
+       id="image2579"
+       height="320.00003"
+       width="146.00002"
+       sodipodi:absref="/home/coudert/WindEEPP/clipart-0083.png"
+       xlink:href="clipart-0083.png"
+       transform="matrix(0.5378741,0.8430252,-0.8430252,0.5378741,0,0)" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path2581"
+       sodipodi:cx="91.428574"
+       sodipodi:cy="508.07648"
+       sodipodi:rx="45.714287"
+       sodipodi:ry="47.142857"
+       d="M 137.14286,508.07648 A 45.714287,47.142857 0 1 1 45.714287,508.07648 A 45.714287,47.142857 0 1 1 137.14286,508.07648 z"
+       transform="matrix(1.2,0,0,1.2,3.9376417,-127.87926)" />
+    <image
+       y="-152.23692"
+       x="403.45264"
+       id="image2583"
+       height="320"
+       width="146"
+       sodipodi:absref="/home/coudert/WindEEPP/clipart-0083.png"
+       xlink:href="clipart-0083.png"
+       transform="matrix(0.8005806,0.5992251,-0.5992251,0.8005806,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-size:57.59999847000000273px;font-style:normal;font-weight:normal;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="62.536438"
+       y="505.21381"
+       id="text2585"><tspan
+         sodipodi:role="line"
+         id="tspan2587"
+         x="62.536438"
+         y="505.21381">WD</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path2589"
+       sodipodi:cx="150.00766"
+       sodipodi:cy="411.42038"
+       sodipodi:rx="8.586297"
+       sodipodi:ry="8.586297"
+       d="M 158.59396,411.42038 A 8.586297,8.586297 0 1 1 141.42136,411.42038 A 8.586297,8.586297 0 1 1 158.59396,411.42038 z"
+       transform="translate(5.0507627,29.294424)" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3361"
+       sodipodi:cx="150.00766"
+       sodipodi:cy="411.42038"
+       sodipodi:rx="8.586297"
+       sodipodi:ry="8.586297"
+       d="M 158.59396,411.42038 A 8.586297,8.586297 0 1 1 141.42136,411.42038 A 8.586297,8.586297 0 1 1 158.59396,411.42038 z"
+       transform="translate(20.70812,68.185309)" />
   </g>
 </svg>

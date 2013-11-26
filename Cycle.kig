@@ -3,542 +3,675 @@
 <KigDocument axes="1" grid="1" CompatibilityVersion="0.7.0" Version="1.0">
  <CoordinateSystem>Euclidean</CoordinateSystem>
  <Hierarchy>
-  <Data type="double" id="1">-0.0883798</Data>
-  <Data type="string" id="2">kyte</Data>
-  <Data type="double" id="3">5.5532</Data>
-  <Data type="string" id="4">rewind_cycle_angle</Data>
-  <Data type="double" id="5">0.349606</Data>
-  <Data type="double" id="6">0.394881</Data>
-  <Data type="string" id="7">power_cycle_angle</Data>
-  <Data type="int" id="8">0</Data>
-  <Data type="string" id="9">%1</Data>
-  <Data type="int" id="10">0</Data>
-  <Data type="double" id="11">-3.57002</Data>
-  <Data type="string" id="12">small_circle_radius</Data>
-  <Data type="string" id="13">big_circle_radius</Data>
-  <Data type="string" id="14">%1</Data>
+  <Data type="string" id="1">%1</Data>
+  <Data type="string" id="2">wind_power</Data>
+  <Data type="double" id="3">-0.0883798</Data>
+  <Data type="string" id="4">kyte</Data>
+  <Data type="double" id="5">-0.235679</Data>
+  <Data type="string" id="6">%1</Data>
+  <Data type="string" id="7">WindEEP_power</Data>
+  <Data type="double" id="8">0.471359</Data>
+  <Data type="double" id="9">4.46318</Data>
+  <Data type="string" id="10">rewind_cycle_angle</Data>
+  <Data type="double" id="11">0.349606</Data>
+  <Data type="double" id="12">0.394881</Data>
+  <Data type="string" id="13">power_cycle_angle</Data>
+  <Data type="int" id="14">0</Data>
   <Data type="int" id="15">0</Data>
-  <Data type="double" id="16">-0.0463561</Data>
+  <Data type="string" id="16">%1</Data>
   <Data type="string" id="17">%1</Data>
-  <Data type="string" id="18">power_cycle_height</Data>
-  <Data type="double" id="19">-2.44764</Data>
-  <Data type="double" id="20">-0.0417582</Data>
-  <Data type="double" id="21">-0.0946001</Data>
-  <Data type="double" id="22">0.56318</Data>
+  <Data type="int" id="18">0</Data>
+  <Data type="double" id="19">-3.57002</Data>
+  <Data type="string" id="20">small_circle_radius</Data>
+  <Data type="string" id="21">big_circle_radius</Data>
+  <Data type="string" id="22">%1</Data>
   <Data type="int" id="23">0</Data>
-  <Data type="string" id="24">%1</Data>
-  <Data type="int" id="25">0</Data>
-  <Data type="double" id="26">0.84731</Data>
-  <Data type="int" id="27">-1</Data>
-  <Data type="double" id="28">6.53264</Data>
+  <Data type="double" id="24">-0.0463561</Data>
+  <Data type="string" id="25">%1</Data>
+  <Data type="string" id="26">power_cycle_height</Data>
+  <Data type="int" id="27">0</Data>
+  <Data type="double" id="28">-2.44764</Data>
   <Data type="string" id="29">%1</Data>
-  <Data type="double" id="30">0.742316</Data>
-  <Data type="int" id="31">0</Data>
-  <Data type="double" id="32">-0.272601</Data>
-  <Data type="double" id="33">-0.0589199</Data>
-  <Data type="int" id="34">1</Data>
-  <Data type="double" id="35">0.52214</Data>
-  <Data type="int" id="36">-1</Data>
-  <Data type="double" id="37">0.565659</Data>
-  <Data type="int" id="38">-1</Data>
-  <Data type="int" id="39">1</Data>
-  <Data type="double" id="40">-1.36099</Data>
-  <Data type="double" id="41">0.1473</Data>
+  <Data type="double" id="30">-0.0417582</Data>
+  <Data type="double" id="31">0.1473</Data>
+  <Data type="int" id="32">0</Data>
+  <Data type="double" id="33">-0.0946001</Data>
+  <Data type="double" id="34">-7.34439</Data>
+  <Data type="double" id="35">1</Data>
+  <Data type="double" id="36">-4.52373</Data>
+  <Data type="string" id="37">wind</Data>
+  <Data type="double" id="38">0.56318</Data>
+  <Data type="double" id="39">0</Data>
+  <Data type="string" id="40">%1</Data>
+  <Data type="double" id="41">1</Data>
   <Data type="int" id="42">0</Data>
-  <Data type="string" id="43">kyte_handle</Data>
-  <Data type="string" id="44">%1</Data>
-  <Object type="FixedPoint" id="45">
-   <Parent id="3"/>
-   <Parent id="28"/>
-  </Object>
-  <Object type="RelativePoint" id="46">
-   <Parent id="41"/>
-   <Parent id="1"/>
-   <Parent id="45"/>
-  </Object>
-  <Object type="Label" id="47">
-   <Parent id="15"/>
-   <Parent id="46"/>
-   <Parent id="44"/>
-   <Parent id="2"/>
-  </Object>
-  <Data type="double" id="48">0.232111</Data>
-  <Data type="string" id="49">x</Data>
-  <Data type="double" id="50">-0.0130924</Data>
-  <Data type="double" id="51">-0.095841</Data>
+  <Data type="double" id="43">-6.74632</Data>
+  <Data type="double" id="44">-5.83307</Data>
+  <Data type="string" id="45">%1</Data>
+  <Data type="int" id="46">0</Data>
+  <Data type="double" id="47">0.683878</Data>
+  <Data type="double" id="48">0.84731</Data>
+  <Data type="int" id="49">0</Data>
+  <Data type="int" id="50">-1</Data>
+  <Data type="double" id="51">6.06128</Data>
   <Data type="string" id="52">%1</Data>
-  <Data type="string" id="53">%1</Data>
+  <Data type="double" id="53">0.742316</Data>
   <Data type="int" id="54">0</Data>
-  <Data type="double" id="55">-2.01801</Data>
-  <Data type="int" id="56">1</Data>
-  <Data type="string" id="57">WindEEPP</Data>
-  <Data type="double" id="58">1</Data>
-  <Data type="double" id="59">0.960753</Data>
-  <Data type="int" id="60">-1</Data>
-  <Data type="double" id="61">-0.39044</Data>
-  <Data type="double" id="62">0</Data>
-  <Object type="FixedPoint" id="63">
-   <Parent id="58"/>
-   <Parent id="62"/>
-  </Object>
-  <Object type="RelativePoint" id="64">
-   <Parent id="50"/>
+  <Data type="double" id="55">-0.272601</Data>
+  <Data type="double" id="56">-0.0589199</Data>
+  <Data type="int" id="57">1</Data>
+  <Data type="double" id="58">0.52214</Data>
+  <Data type="int" id="59">-1</Data>
+  <Data type="int" id="60">0</Data>
+  <Data type="double" id="61">0.253521</Data>
+  <Data type="double" id="62">0.565659</Data>
+  <Data type="int" id="63">-1</Data>
+  <Data type="int" id="64">1</Data>
+  <Data type="double" id="65">-1.36099</Data>
+  <Data type="double" id="66">0.1473</Data>
+  <Data type="int" id="67">0</Data>
+  <Data type="double" id="68">1</Data>
+  <Data type="string" id="69">kyte_handle</Data>
+  <Data type="string" id="70">%1</Data>
+  <Data type="double" id="71">0.712898</Data>
+  <Object type="FixedPoint" id="72">
+   <Parent id="9"/>
    <Parent id="51"/>
-   <Parent id="63"/>
-  </Object>
-  <Data type="double" id="65">0</Data>
-  <Data type="int" id="66">1</Data>
-  <Data type="double" id="67">0</Data>
-  <Object type="FixedPoint" id="68">
-   <Parent id="67"/>
-   <Parent id="65"/>
-  </Object>
-  <Object type="SegmentAB" id="69">
-   <Parent id="68"/>
-   <Parent id="45"/>
-  </Object>
-  <Object type="LinePerpend" id="70">
-   <Parent id="69"/>
-   <Parent id="68"/>
-  </Object>
-  <Object type="ConstrainedPoint" id="71">
-   <Parent id="35"/>
-   <Parent id="70"/>
-  </Object>
-  <Object type="LinePerpend" id="72">
-   <Parent id="70"/>
-   <Parent id="71"/>
   </Object>
   <Object type="RelativePoint" id="73">
-   <Parent id="19"/>
-   <Parent id="22"/>
-   <Parent id="71"/>
+   <Parent id="66"/>
+   <Parent id="3"/>
+   <Parent id="72"/>
   </Object>
   <Object type="Label" id="74">
-   <Parent id="42"/>
-   <Parent id="73"/>
-   <Parent id="29"/>
-   <Parent id="43"/>
-  </Object>
-  <Object type="LineAB" id="75">
-   <Parent id="68"/>
-   <Parent id="63"/>
-  </Object>
-  <Object type="ConstrainedPoint" id="76">
-   <Parent id="59"/>
-   <Parent id="75"/>
-  </Object>
-  <Object type="RelativePoint" id="77">
-   <Parent id="33"/>
-   <Parent id="32"/>
-   <Parent id="76"/>
-  </Object>
-  <Object type="Label" id="78">
-   <Parent id="31"/>
-   <Parent id="77"/>
-   <Parent id="14"/>
-   <Parent id="13"/>
-  </Object>
-  <Object type="CircleBCP" id="79">
-   <Parent id="68"/>
-   <Parent id="76"/>
-  </Object>
-  <Object type="ConstrainedPoint" id="80">
-   <Parent id="48"/>
-   <Parent id="79"/>
-  </Object>
-  <Object type="RelativePoint" id="81">
-   <Parent id="40"/>
-   <Parent id="26"/>
-   <Parent id="80"/>
-  </Object>
-  <Object type="RayAB" id="82">
-   <Parent id="68"/>
-   <Parent id="80"/>
-  </Object>
-  <Object type="RelativePoint" id="83">
-   <Parent id="55"/>
-   <Parent id="61"/>
-   <Parent id="68"/>
-  </Object>
-  <Object type="Label" id="84">
-   <Parent id="54"/>
-   <Parent id="83"/>
-   <Parent id="53"/>
-   <Parent id="57"/>
-  </Object>
-  <Data type="int" id="85">0</Data>
-  <Object type="Label" id="86">
-   <Parent id="85"/>
-   <Parent id="64"/>
-   <Parent id="52"/>
-   <Parent id="49"/>
-  </Object>
-  <Object type="CircleBPR" id="87">
-   <Parent id="68"/>
-   <Parent id="69"/>
-  </Object>
-  <Object type="ConicLineIntersection" id="88">
-   <Parent id="87"/>
-   <Parent id="72"/>
-   <Parent id="34"/>
-  </Object>
-  <Object type="SegmentAB" id="89">
-   <Parent id="71"/>
-   <Parent id="88"/>
-  </Object>
-  <Object type="ConicLineIntersection" id="90">
-   <Parent id="87"/>
-   <Parent id="72"/>
-   <Parent id="27"/>
-  </Object>
-  <Data type="double" id="91">0.0480425</Data>
-  <Object type="ConstrainedPoint" id="92">
-   <Parent id="91"/>
-   <Parent id="79"/>
-  </Object>
-  <Object type="RelativePoint" id="93">
-   <Parent id="6"/>
-   <Parent id="5"/>
-   <Parent id="92"/>
-  </Object>
-  <Object type="Label" id="94">
    <Parent id="23"/>
-   <Parent id="93"/>
-   <Parent id="24"/>
-   <Parent id="7"/>
-  </Object>
-  <Object type="RayAB" id="95">
-   <Parent id="68"/>
-   <Parent id="92"/>
-  </Object>
-  <Object type="ConstrainedPoint" id="96">
-   <Parent id="30"/>
-   <Parent id="95"/>
-  </Object>
-  <Object type="RelativePoint" id="97">
-   <Parent id="21"/>
-   <Parent id="20"/>
-   <Parent id="96"/>
-  </Object>
-  <Object type="Label" id="98">
-   <Parent id="10"/>
-   <Parent id="97"/>
-   <Parent id="9"/>
-   <Parent id="12"/>
-  </Object>
-  <Object type="SegmentAB" id="99">
-   <Parent id="96"/>
-   <Parent id="92"/>
-  </Object>
-  <Property which="mid-point" id="100">
-   <Parent id="99"/>
-  </Property>
-  <Object type="SegmentAB" id="101">
-   <Parent id="100"/>
-   <Parent id="92"/>
-  </Object>
-  <Property which="mid-point" id="102">
-   <Parent id="101"/>
-  </Property>
-  <Object type="SegmentAB" id="103">
-   <Parent id="96"/>
-   <Parent id="100"/>
-  </Object>
-  <Property which="mid-point" id="104">
-   <Parent id="103"/>
-  </Property>
-  <Object type="LinePerpend" id="105">
-   <Parent id="95"/>
-   <Parent id="96"/>
-  </Object>
-  <Object type="ConstrainedPoint" id="106">
-   <Parent id="37"/>
-   <Parent id="105"/>
-  </Object>
-  <Object type="RelativePoint" id="107">
-   <Parent id="11"/>
-   <Parent id="16"/>
-   <Parent id="106"/>
-  </Object>
-  <Object type="Label" id="108">
-   <Parent id="8"/>
-   <Parent id="107"/>
-   <Parent id="17"/>
-   <Parent id="18"/>
-  </Object>
-  <Object type="SegmentAB" id="109">
-   <Parent id="104"/>
-   <Parent id="106"/>
-  </Object>
-  <Property which="mid-point" id="110">
-   <Parent id="109"/>
-  </Property>
-  <Object type="CircleBCP" id="111">
-   <Parent id="68"/>
-   <Parent id="106"/>
-  </Object>
-  <Object type="ConicLineIntersection" id="112">
-   <Parent id="111"/>
-   <Parent id="95"/>
-   <Parent id="39"/>
-  </Object>
-  <Object type="ConicLineIntersection" id="113">
-   <Parent id="111"/>
-   <Parent id="95"/>
-   <Parent id="36"/>
-  </Object>
-  <Object type="ConicLineIntersection" id="114">
-   <Parent id="111"/>
-   <Parent id="82"/>
-   <Parent id="56"/>
-  </Object>
-  <Object type="ConicLineIntersection" id="115">
-   <Parent id="111"/>
-   <Parent id="82"/>
-   <Parent id="60"/>
-  </Object>
-  <Object type="SegmentAB" id="116">
-   <Parent id="115"/>
-   <Parent id="80"/>
-  </Object>
-  <Object type="ArcBTP" id="117">
-   <Parent id="115"/>
-   <Parent id="106"/>
-   <Parent id="113"/>
-  </Object>
-  <Object type="LinePerpend" id="118">
-   <Parent id="105"/>
-   <Parent id="106"/>
-  </Object>
-  <Object type="ConicLineIntersection" id="119">
-   <Parent id="79"/>
-   <Parent id="118"/>
-   <Parent id="66"/>
-  </Object>
-  <Object type="SegmentAB" id="120">
-   <Parent id="92"/>
-   <Parent id="119"/>
-  </Object>
-  <Property which="mid-point" id="121">
-   <Parent id="120"/>
-  </Property>
-  <Object type="SegmentAB" id="122">
-   <Parent id="106"/>
-   <Parent id="119"/>
-  </Object>
-  <Property which="mid-point" id="123">
-   <Parent id="122"/>
-  </Property>
-  <Object type="SegmentAB" id="124">
-   <Parent id="102"/>
-   <Parent id="123"/>
-  </Object>
-  <Property which="mid-point" id="125">
-   <Parent id="124"/>
-  </Property>
-  <Object type="SegmentAB" id="126">
-   <Parent id="100"/>
-   <Parent id="123"/>
-  </Object>
-  <Property which="mid-point" id="127">
-   <Parent id="126"/>
-  </Property>
-  <Object type="SegmentAB" id="128">
-   <Parent id="123"/>
-   <Parent id="119"/>
-  </Object>
-  <Property which="mid-point" id="129">
-   <Parent id="128"/>
-  </Property>
-  <Object type="SegmentAB" id="130">
-   <Parent id="92"/>
-   <Parent id="129"/>
-  </Object>
-  <Property which="mid-point" id="131">
-   <Parent id="130"/>
-  </Property>
-  <Object type="SegmentAB" id="132">
-   <Parent id="102"/>
-   <Parent id="129"/>
-  </Object>
-  <Property which="mid-point" id="133">
-   <Parent id="132"/>
-  </Property>
-  <Object type="SegmentAB" id="134">
-   <Parent id="129"/>
-   <Parent id="119"/>
-  </Object>
-  <Object type="SegmentAB" id="135">
-   <Parent id="123"/>
-   <Parent id="129"/>
-  </Object>
-  <Property which="mid-point" id="136">
-   <Parent id="135"/>
-  </Property>
-  <Object type="ArcBTP" id="137">
-   <Parent id="136"/>
-   <Parent id="133"/>
-   <Parent id="102"/>
-  </Object>
-  <Object type="ArcBTP" id="138">
-   <Parent id="100"/>
-   <Parent id="125"/>
-   <Parent id="136"/>
-  </Object>
-  <Object type="SegmentAB" id="139">
-   <Parent id="106"/>
-   <Parent id="123"/>
-  </Object>
-  <Property which="mid-point" id="140">
-   <Parent id="139"/>
-  </Property>
-  <Object type="SegmentAB" id="141">
-   <Parent id="100"/>
-   <Parent id="140"/>
-  </Object>
-  <Property which="mid-point" id="142">
-   <Parent id="141"/>
-  </Property>
-  <Object type="SegmentAB" id="143">
-   <Parent id="104"/>
-   <Parent id="140"/>
-  </Object>
-  <Property which="mid-point" id="144">
-   <Parent id="143"/>
-  </Property>
-  <Object type="SegmentAB" id="145">
-   <Parent id="140"/>
-   <Parent id="123"/>
-  </Object>
-  <Property which="mid-point" id="146">
-   <Parent id="145"/>
-  </Property>
-  <Object type="ArcBTP" id="147">
-   <Parent id="146"/>
-   <Parent id="127"/>
-   <Parent id="100"/>
-  </Object>
-  <Object type="ArcBTP" id="148">
-   <Parent id="104"/>
-   <Parent id="142"/>
-   <Parent id="146"/>
-  </Object>
-  <Object type="SegmentAB" id="149">
-   <Parent id="106"/>
-   <Parent id="140"/>
-  </Object>
-  <Property which="mid-point" id="150">
-   <Parent id="149"/>
-  </Property>
-  <Object type="ArcBTP" id="151">
-   <Parent id="150"/>
-   <Parent id="144"/>
-   <Parent id="104"/>
-  </Object>
-  <Object type="ArcBTP" id="152">
-   <Parent id="150"/>
-   <Parent id="110"/>
-   <Parent id="113"/>
-  </Object>
-  <Object type="ArcBTP" id="153">
-   <Parent id="80"/>
-   <Parent id="119"/>
-   <Parent id="92"/>
-  </Object>
-  <Object type="ConicLineIntersection" id="154">
-   <Parent id="79"/>
-   <Parent id="118"/>
-   <Parent id="38"/>
-  </Object>
-  <Data type="string" id="155">%1</Data>
-  <Object type="Label" id="156">
-   <Parent id="25"/>
-   <Parent id="81"/>
-   <Parent id="155"/>
+   <Parent id="73"/>
+   <Parent id="70"/>
    <Parent id="4"/>
   </Object>
-  <Property which="mid-point" id="157">
-   <Parent id="134"/>
-  </Property>
-  <Object type="ArcBTP" id="158">
-   <Parent id="157"/>
-   <Parent id="121"/>
-   <Parent id="92"/>
+  <Data type="double" id="75">-0.206605</Data>
+  <Data type="double" id="76">0.232111</Data>
+  <Data type="string" id="77">x</Data>
+  <Data type="double" id="78">-0.0130924</Data>
+  <Data type="double" id="79">-0.095841</Data>
+  <Data type="string" id="80">%1</Data>
+  <Data type="string" id="81">%1</Data>
+  <Data type="int" id="82">0</Data>
+  <Data type="double" id="83">-2.01801</Data>
+  <Data type="int" id="84">1</Data>
+  <Data type="string" id="85">WindEEPP</Data>
+  <Data type="double" id="86">1</Data>
+  <Data type="double" id="87">0.960753</Data>
+  <Data type="int" id="88">-1</Data>
+  <Data type="double" id="89">-0.39044</Data>
+  <Data type="double" id="90">0</Data>
+  <Object type="FixedPoint" id="91">
+   <Parent id="86"/>
+   <Parent id="90"/>
   </Object>
-  <Object type="ArcBTP" id="159">
+  <Object type="RelativePoint" id="92">
+   <Parent id="78"/>
+   <Parent id="79"/>
+   <Parent id="91"/>
+  </Object>
+  <Data type="double" id="93">0</Data>
+  <Data type="int" id="94">1</Data>
+  <Data type="double" id="95">0</Data>
+  <Object type="FixedPoint" id="96">
+   <Parent id="95"/>
+   <Parent id="93"/>
+  </Object>
+  <Object type="RayAB" id="97">
+   <Parent id="96"/>
+   <Parent id="72"/>
+  </Object>
+  <Object type="SegmentAB" id="98">
+   <Parent id="96"/>
+   <Parent id="72"/>
+  </Object>
+  <Object type="LinePerpend" id="99">
+   <Parent id="98"/>
+   <Parent id="96"/>
+  </Object>
+  <Object type="ConstrainedPoint" id="100">
+   <Parent id="58"/>
+   <Parent id="99"/>
+  </Object>
+  <Object type="LinePerpend" id="101">
+   <Parent id="99"/>
+   <Parent id="100"/>
+  </Object>
+  <Object type="RelativePoint" id="102">
+   <Parent id="28"/>
+   <Parent id="38"/>
+   <Parent id="100"/>
+  </Object>
+  <Object type="Label" id="103">
+   <Parent id="67"/>
    <Parent id="102"/>
-   <Parent id="131"/>
+   <Parent id="52"/>
+   <Parent id="69"/>
+  </Object>
+  <Object type="LineAB" id="104">
+   <Parent id="96"/>
+   <Parent id="91"/>
+  </Object>
+  <Object type="LineParallel" id="105">
+   <Parent id="104"/>
+   <Parent id="72"/>
+  </Object>
+  <Object type="ConstrainedPoint" id="106">
+   <Parent id="47"/>
+   <Parent id="105"/>
+  </Object>
+  <Object type="LinePerpend" id="107">
+   <Parent id="97"/>
+   <Parent id="106"/>
+  </Object>
+  <Object type="LineLineIntersection" id="108">
+   <Parent id="97"/>
+   <Parent id="107"/>
+  </Object>
+  <Object type="Vector" id="109">
+   <Parent id="72"/>
+   <Parent id="108"/>
+  </Object>
+  <Object type="ConstrainedRelativePoint" id="110">
+   <Parent id="36"/>
+   <Parent id="34"/>
+   <Parent id="68"/>
+   <Parent id="109"/>
+  </Object>
+  <Property which="length" id="111">
+   <Parent id="109"/>
+  </Property>
+  <Object type="Label" id="112">
+   <Parent id="27"/>
+   <Parent id="110"/>
+   <Parent id="16"/>
+   <Parent id="111"/>
+  </Object>
+  <Object type="ConstrainedRelativePoint" id="113">
+   <Parent id="75"/>
+   <Parent id="71"/>
+   <Parent id="35"/>
+   <Parent id="109"/>
+  </Object>
+  <Object type="Label" id="114">
+   <Parent id="32"/>
+   <Parent id="113"/>
+   <Parent id="40"/>
+   <Parent id="7"/>
+  </Object>
+  <Object type="Vector" id="115">
+   <Parent id="72"/>
+   <Parent id="106"/>
+  </Object>
+  <Object type="ConstrainedRelativePoint" id="116">
+   <Parent id="44"/>
+   <Parent id="43"/>
+   <Parent id="41"/>
+   <Parent id="115"/>
+  </Object>
+  <Property which="length" id="117">
+   <Parent id="115"/>
+  </Property>
+  <Object type="Label" id="118">
+   <Parent id="15"/>
+   <Parent id="116"/>
+   <Parent id="6"/>
+   <Parent id="117"/>
+  </Object>
+  <Object type="ConstrainedRelativePoint" id="119">
+   <Parent id="39"/>
+   <Parent id="8"/>
+   <Parent id="61"/>
+   <Parent id="115"/>
+  </Object>
+  <Object type="Label" id="120">
+   <Parent id="60"/>
+   <Parent id="119"/>
+   <Parent id="29"/>
+   <Parent id="37"/>
+  </Object>
+  <Object type="RelativePoint" id="121">
+   <Parent id="31"/>
+   <Parent id="5"/>
+   <Parent id="106"/>
+  </Object>
+  <Object type="Label" id="122">
+   <Parent id="49"/>
+   <Parent id="121"/>
+   <Parent id="1"/>
+   <Parent id="2"/>
+  </Object>
+  <Object type="ConstrainedPoint" id="123">
+   <Parent id="87"/>
+   <Parent id="104"/>
+  </Object>
+  <Object type="RelativePoint" id="124">
+   <Parent id="56"/>
+   <Parent id="55"/>
+   <Parent id="123"/>
+  </Object>
+  <Object type="Label" id="125">
+   <Parent id="54"/>
+   <Parent id="124"/>
+   <Parent id="22"/>
+   <Parent id="21"/>
+  </Object>
+  <Object type="CircleBCP" id="126">
+   <Parent id="96"/>
+   <Parent id="123"/>
+  </Object>
+  <Object type="ConstrainedPoint" id="127">
+   <Parent id="76"/>
+   <Parent id="126"/>
+  </Object>
+  <Object type="RelativePoint" id="128">
+   <Parent id="65"/>
+   <Parent id="48"/>
+   <Parent id="127"/>
+  </Object>
+  <Object type="RayAB" id="129">
+   <Parent id="96"/>
+   <Parent id="127"/>
+  </Object>
+  <Object type="RelativePoint" id="130">
+   <Parent id="83"/>
+   <Parent id="89"/>
+   <Parent id="96"/>
+  </Object>
+  <Object type="Label" id="131">
+   <Parent id="82"/>
+   <Parent id="130"/>
+   <Parent id="81"/>
+   <Parent id="85"/>
+  </Object>
+  <Data type="int" id="132">0</Data>
+  <Object type="Label" id="133">
+   <Parent id="132"/>
+   <Parent id="92"/>
+   <Parent id="80"/>
+   <Parent id="77"/>
+  </Object>
+  <Object type="CircleBPR" id="134">
+   <Parent id="96"/>
+   <Parent id="98"/>
+  </Object>
+  <Object type="ConicLineIntersection" id="135">
+   <Parent id="134"/>
+   <Parent id="101"/>
+   <Parent id="57"/>
+  </Object>
+  <Object type="SegmentAB" id="136">
+   <Parent id="100"/>
+   <Parent id="135"/>
+  </Object>
+  <Object type="ConicLineIntersection" id="137">
+   <Parent id="134"/>
+   <Parent id="101"/>
+   <Parent id="50"/>
+  </Object>
+  <Data type="double" id="138">0.0480425</Data>
+  <Object type="ConstrainedPoint" id="139">
+   <Parent id="138"/>
+   <Parent id="126"/>
+  </Object>
+  <Object type="RelativePoint" id="140">
+   <Parent id="12"/>
+   <Parent id="11"/>
+   <Parent id="139"/>
+  </Object>
+  <Object type="Label" id="141">
+   <Parent id="42"/>
+   <Parent id="140"/>
+   <Parent id="45"/>
+   <Parent id="13"/>
+  </Object>
+  <Object type="RayAB" id="142">
+   <Parent id="96"/>
+   <Parent id="139"/>
+  </Object>
+  <Object type="ConstrainedPoint" id="143">
+   <Parent id="53"/>
+   <Parent id="142"/>
+  </Object>
+  <Object type="RelativePoint" id="144">
+   <Parent id="33"/>
+   <Parent id="30"/>
+   <Parent id="143"/>
+  </Object>
+  <Object type="Label" id="145">
+   <Parent id="18"/>
+   <Parent id="144"/>
+   <Parent id="17"/>
+   <Parent id="20"/>
+  </Object>
+  <Object type="SegmentAB" id="146">
+   <Parent id="143"/>
+   <Parent id="139"/>
+  </Object>
+  <Property which="mid-point" id="147">
+   <Parent id="146"/>
+  </Property>
+  <Object type="SegmentAB" id="148">
+   <Parent id="147"/>
+   <Parent id="139"/>
+  </Object>
+  <Property which="mid-point" id="149">
+   <Parent id="148"/>
+  </Property>
+  <Object type="SegmentAB" id="150">
+   <Parent id="143"/>
+   <Parent id="147"/>
+  </Object>
+  <Property which="mid-point" id="151">
+   <Parent id="150"/>
+  </Property>
+  <Object type="LinePerpend" id="152">
+   <Parent id="142"/>
+   <Parent id="143"/>
+  </Object>
+  <Object type="ConstrainedPoint" id="153">
+   <Parent id="62"/>
+   <Parent id="152"/>
+  </Object>
+  <Object type="RelativePoint" id="154">
+   <Parent id="19"/>
+   <Parent id="24"/>
+   <Parent id="153"/>
+  </Object>
+  <Object type="Label" id="155">
+   <Parent id="14"/>
+   <Parent id="154"/>
+   <Parent id="25"/>
+   <Parent id="26"/>
+  </Object>
+  <Object type="SegmentAB" id="156">
+   <Parent id="151"/>
+   <Parent id="153"/>
+  </Object>
+  <Property which="mid-point" id="157">
+   <Parent id="156"/>
+  </Property>
+  <Object type="CircleBCP" id="158">
+   <Parent id="96"/>
+   <Parent id="153"/>
+  </Object>
+  <Object type="ConicLineIntersection" id="159">
+   <Parent id="158"/>
+   <Parent id="142"/>
+   <Parent id="64"/>
+  </Object>
+  <Object type="ConicLineIntersection" id="160">
+   <Parent id="158"/>
+   <Parent id="142"/>
+   <Parent id="59"/>
+  </Object>
+  <Object type="ConicLineIntersection" id="161">
+   <Parent id="158"/>
+   <Parent id="129"/>
+   <Parent id="84"/>
+  </Object>
+  <Object type="ConicLineIntersection" id="162">
+   <Parent id="158"/>
+   <Parent id="129"/>
+   <Parent id="88"/>
+  </Object>
+  <Object type="SegmentAB" id="163">
+   <Parent id="162"/>
+   <Parent id="127"/>
+  </Object>
+  <Object type="ArcBTP" id="164">
+   <Parent id="162"/>
+   <Parent id="153"/>
+   <Parent id="160"/>
+  </Object>
+  <Object type="LinePerpend" id="165">
+   <Parent id="152"/>
+   <Parent id="153"/>
+  </Object>
+  <Object type="ConicLineIntersection" id="166">
+   <Parent id="126"/>
+   <Parent id="165"/>
+   <Parent id="94"/>
+  </Object>
+  <Object type="SegmentAB" id="167">
+   <Parent id="139"/>
+   <Parent id="166"/>
+  </Object>
+  <Property which="mid-point" id="168">
+   <Parent id="167"/>
+  </Property>
+  <Object type="SegmentAB" id="169">
+   <Parent id="153"/>
+   <Parent id="166"/>
+  </Object>
+  <Property which="mid-point" id="170">
+   <Parent id="169"/>
+  </Property>
+  <Object type="SegmentAB" id="171">
+   <Parent id="149"/>
+   <Parent id="170"/>
+  </Object>
+  <Property which="mid-point" id="172">
+   <Parent id="171"/>
+  </Property>
+  <Object type="SegmentAB" id="173">
+   <Parent id="147"/>
+   <Parent id="170"/>
+  </Object>
+  <Property which="mid-point" id="174">
+   <Parent id="173"/>
+  </Property>
+  <Object type="SegmentAB" id="175">
+   <Parent id="170"/>
+   <Parent id="166"/>
+  </Object>
+  <Property which="mid-point" id="176">
+   <Parent id="175"/>
+  </Property>
+  <Object type="SegmentAB" id="177">
+   <Parent id="139"/>
+   <Parent id="176"/>
+  </Object>
+  <Property which="mid-point" id="178">
+   <Parent id="177"/>
+  </Property>
+  <Object type="SegmentAB" id="179">
+   <Parent id="149"/>
+   <Parent id="176"/>
+  </Object>
+  <Property which="mid-point" id="180">
+   <Parent id="179"/>
+  </Property>
+  <Object type="SegmentAB" id="181">
+   <Parent id="176"/>
+   <Parent id="166"/>
+  </Object>
+  <Object type="SegmentAB" id="182">
+   <Parent id="170"/>
+   <Parent id="176"/>
+  </Object>
+  <Property which="mid-point" id="183">
+   <Parent id="182"/>
+  </Property>
+  <Object type="ArcBTP" id="184">
+   <Parent id="183"/>
+   <Parent id="180"/>
+   <Parent id="149"/>
+  </Object>
+  <Object type="ArcBTP" id="185">
+   <Parent id="147"/>
+   <Parent id="172"/>
+   <Parent id="183"/>
+  </Object>
+  <Object type="SegmentAB" id="186">
+   <Parent id="153"/>
+   <Parent id="170"/>
+  </Object>
+  <Property which="mid-point" id="187">
+   <Parent id="186"/>
+  </Property>
+  <Object type="SegmentAB" id="188">
+   <Parent id="147"/>
+   <Parent id="187"/>
+  </Object>
+  <Property which="mid-point" id="189">
+   <Parent id="188"/>
+  </Property>
+  <Object type="SegmentAB" id="190">
+   <Parent id="151"/>
+   <Parent id="187"/>
+  </Object>
+  <Property which="mid-point" id="191">
+   <Parent id="190"/>
+  </Property>
+  <Object type="SegmentAB" id="192">
+   <Parent id="187"/>
+   <Parent id="170"/>
+  </Object>
+  <Property which="mid-point" id="193">
+   <Parent id="192"/>
+  </Property>
+  <Object type="ArcBTP" id="194">
+   <Parent id="193"/>
+   <Parent id="174"/>
+   <Parent id="147"/>
+  </Object>
+  <Object type="ArcBTP" id="195">
+   <Parent id="151"/>
+   <Parent id="189"/>
+   <Parent id="193"/>
+  </Object>
+  <Object type="SegmentAB" id="196">
+   <Parent id="153"/>
+   <Parent id="187"/>
+  </Object>
+  <Property which="mid-point" id="197">
+   <Parent id="196"/>
+  </Property>
+  <Object type="ArcBTP" id="198">
+   <Parent id="197"/>
+   <Parent id="191"/>
+   <Parent id="151"/>
+  </Object>
+  <Object type="ArcBTP" id="199">
+   <Parent id="197"/>
    <Parent id="157"/>
+   <Parent id="160"/>
+  </Object>
+  <Object type="ArcBTP" id="200">
+   <Parent id="127"/>
+   <Parent id="166"/>
+   <Parent id="139"/>
+  </Object>
+  <Object type="ConicLineIntersection" id="201">
+   <Parent id="126"/>
+   <Parent id="165"/>
+   <Parent id="63"/>
+  </Object>
+  <Data type="string" id="202">%1</Data>
+  <Object type="Label" id="203">
+   <Parent id="46"/>
+   <Parent id="128"/>
+   <Parent id="202"/>
+   <Parent id="10"/>
+  </Object>
+  <Property which="mid-point" id="204">
+   <Parent id="181"/>
+  </Property>
+  <Object type="ArcBTP" id="205">
+   <Parent id="204"/>
+   <Parent id="168"/>
+   <Parent id="139"/>
+  </Object>
+  <Object type="ArcBTP" id="206">
+   <Parent id="149"/>
+   <Parent id="178"/>
+   <Parent id="204"/>
   </Object>
  </Hierarchy>
  <View>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="100"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="129"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="90"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="119"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="118"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="157"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="79"/>
-  <Draw width="-1" namecalcer="57" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="68"/>
-  <Draw width="5" namecalcer="none" point-style="Round" shown="true" style="DotLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="152"/>
-  <Draw width="5" namecalcer="none" point-style="Round" shown="true" style="DotLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="158"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="140"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="87"/>
-  <Draw width="5" namecalcer="none" point-style="Round" shown="true" style="DotLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="147"/>
-  <Draw width="-1" namecalcer="13" point-style="Round" shown="true" style="SolidLine" color="#00ff00" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="76"/>
-  <Draw width="5" namecalcer="none" point-style="Round" shown="true" style="DotLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="138"/>
-  <Draw width="5" namecalcer="none" point-style="Round" shown="true" style="DotLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="159"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="84"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="75"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="147"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="176"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="137"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="166"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="165"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="204"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="126"/>
+  <Draw width="-1" namecalcer="85" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="96"/>
+  <Draw width="5" namecalcer="none" point-style="Round" shown="true" style="DotLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="199"/>
+  <Draw width="5" namecalcer="none" point-style="Round" shown="true" style="DotLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="205"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="187"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="134"/>
+  <Draw width="5" namecalcer="none" point-style="Round" shown="true" style="DotLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="194"/>
+  <Draw width="-1" namecalcer="21" point-style="Round" shown="true" style="SolidLine" color="#00ff00" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="123"/>
+  <Draw width="5" namecalcer="none" point-style="Round" shown="true" style="DotLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="185"/>
+  <Draw width="5" namecalcer="none" point-style="Round" shown="true" style="DotLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="206"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="131"/>
-  <Draw width="-1" namecalcer="49" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="63"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="127"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="86"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="102"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="105"/>
-  <Draw width="5" namecalcer="none" point-style="Round" shown="true" style="DotLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="137"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="89"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="150"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="125"/>
-  <Draw width="5" namecalcer="none" point-style="Round" shown="true" style="DotLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="116"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="115"/>
-  <Draw width="5" namecalcer="none" point-style="Round" shown="true" style="DotLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="148"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="95"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="154"/>
-  <Draw width="13" namecalcer="2" point-style="Rectangular" shown="true" style="SolidLine" color="#00ff00" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="45"/>
-  <Draw width="5" namecalcer="none" point-style="Round" shown="true" style="DotLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="151"/>
-  <Draw width="-1" namecalcer="4" point-style="Round" shown="true" style="SolidLine" color="#00ff00" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="80"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="146"/>
-  <Draw width="5" namecalcer="none" point-style="Round" shown="true" style="DotLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="153"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="82"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="112"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="69"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="144"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="113"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="110"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="136"/>
-  <Draw width="-1" namecalcer="12" point-style="Round" shown="true" style="SolidLine" color="#00ff00" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="96"/>
-  <Draw width="-1" namecalcer="7" point-style="Round" shown="true" style="SolidLine" color="#00ff00" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="92"/>
-  <Draw width="5" namecalcer="none" point-style="Round" shown="true" style="DotLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="117"/>
-  <Draw width="-1" namecalcer="18" point-style="Round" shown="true" style="SolidLine" color="#00ff00" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="106"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="104"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="142"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="111"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="178"/>
+  <Draw width="-1" namecalcer="77" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="91"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="174"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="133"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="149"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="152"/>
+  <Draw width="3" namecalcer="7" point-style="Round" shown="true" style="SolidLine" color="#ff0000" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="109"/>
+  <Draw width="5" namecalcer="none" point-style="Round" shown="true" style="DotLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="184"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="136"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="197"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="172"/>
+  <Draw width="5" namecalcer="none" point-style="Round" shown="true" style="DotLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="163"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="162"/>
+  <Draw width="5" namecalcer="none" point-style="Round" shown="true" style="DotLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="195"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="142"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="201"/>
+  <Draw width="13" namecalcer="4" point-style="Rectangular" shown="true" style="SolidLine" color="#00ff00" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="72"/>
+  <Draw width="5" namecalcer="none" point-style="Round" shown="true" style="DotLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="198"/>
+  <Draw width="-1" namecalcer="10" point-style="Round" shown="true" style="SolidLine" color="#00ff00" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="127"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="193"/>
+  <Draw width="5" namecalcer="none" point-style="Round" shown="true" style="DotLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="200"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="129"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="159"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="98"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="191"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="160"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="157"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="183"/>
+  <Draw width="-1" namecalcer="20" point-style="Round" shown="true" style="SolidLine" color="#00ff00" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="143"/>
+  <Draw width="-1" namecalcer="13" point-style="Round" shown="true" style="SolidLine" color="#00ff00" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="139"/>
+  <Draw width="5" namecalcer="none" point-style="Round" shown="true" style="DotLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="164"/>
+  <Draw width="-1" namecalcer="26" point-style="Round" shown="true" style="SolidLine" color="#00ff00" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="153"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="151"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="189"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="158"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="161"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="168"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="103"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="180"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="170"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#00ff00" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="141"/>
+  <Draw width="13" namecalcer="none" point-style="Rectangular" shown="true" style="SolidLine" color="#ff0000" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="135"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="118"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="107"/>
+  <Draw width="-1" namecalcer="2" point-style="Round" shown="true" style="SolidLine" color="#00ff00" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="106"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="99"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="108"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="112"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#00ff00" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="145"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="101"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#00ff00" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="155"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#00ff00" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="122"/>
+  <Draw width="-1" namecalcer="69" point-style="Round" shown="true" style="SolidLine" color="#00ff00" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="100"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#00ff00" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="203"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#00ff00" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="125"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="120"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="97"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#00ff00" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="74"/>
+  <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="105"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="114"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="121"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="74"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="133"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="123"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#00ff00" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="94"/>
-  <Draw width="13" namecalcer="none" point-style="Rectangular" shown="true" style="SolidLine" color="#ff0000" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="88"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="70"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#00ff00" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="98"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="72"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#00ff00" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="108"/>
-  <Draw width="-1" namecalcer="43" point-style="Round" shown="true" style="SolidLine" color="#00ff00" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="71"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#00ff00" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="156"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#00ff00" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="78"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#00ff00" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="47"/>
+  <Draw width="3" namecalcer="37" point-style="Round" shown="true" style="SolidLine" color="#000000" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="115"/>
  </View>
 </KigDocument>

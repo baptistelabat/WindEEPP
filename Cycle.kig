@@ -583,7 +583,7 @@ WindEEPP=%2</Data>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="156"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="195"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="117"/>
-  <Draw width="-1" namecalcer="79" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="90"/>
+  <Draw width="13" namecalcer="79" point-style="Cross" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="90"/>
   <Draw width="5" namecalcer="none" point-style="Round" shown="true" style="DotLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="190"/>
   <Draw width="5" namecalcer="none" point-style="Round" shown="true" style="DotLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="196"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="178"/>
@@ -602,7 +602,7 @@ WindEEPP=%2</Data>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="143"/>
   <Draw width="3" namecalcer="8" point-style="Round" shown="true" style="SolidLine" color="#ff0000" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="103"/>
   <Draw width="5" namecalcer="none" point-style="Round" shown="true" style="DotLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="175"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="127"/>
+  <Draw width="3" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="127"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="188"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="163"/>
   <Draw width="5" namecalcer="none" point-style="Round" shown="true" style="DotLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="154"/>
@@ -617,7 +617,7 @@ WindEEPP=%2</Data>
   <Draw width="5" namecalcer="none" point-style="Round" shown="true" style="DotLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="191"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="false" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="120"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="150"/>
-  <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="92"/>
+  <Draw width="3" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="92"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="182"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="151"/>
   <Draw width="-1" namecalcer="none" point-style="Round" shown="true" style="SolidLine" color="#0000ff" font="Ubuntu,9,-1,5,50,0,0,0,0,0" object="148"/>

@@ -42,3 +42,13 @@ control:
 - position: vision, rotation
 
 
+
+presentation:
+evince drawing.pdf Cycle.eps CyclePhases.eps &
+eog zoom_400PX_asset_68249103.jpg &
+kig Cycle.kig &
+
+exit
+
+inkscape Cycle.svg CyclePhases.eps &
+
